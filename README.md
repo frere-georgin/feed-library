@@ -6,7 +6,12 @@ There is a markdown document for each subject we want to cover.
 
 ## List
 
-- World Press Agencies         50%
-- Luxembourg Press Agencies    Done
-- Science                      In progress
-- Web Development              In progress
+| Boards                    | Progression   |
+|---------------------------|:-------------:|
+| World Press Agencies      | 50%           |
+| Luxembourg Press Agencies | Done          |
+| Science                   | In progress   |
+| Web Development           | In progress   |
+
+
+## Others 
