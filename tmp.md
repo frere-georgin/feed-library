@@ -4,6 +4,16 @@ https://www.bp.com/en/global/corporate/energy-economics/statistical-review-of-wo
 http://musicforprogramming.net/rss.php
 https://www.franceculture.fr/emissions
 
+http://feeds.feedburner.com/OpenCulture
+https://thinkerview.com/feed/podcast/
+https://lavolte.net/feed/
+
+https://www.reddit.com/r/MapPorn/
+
+
+https://webmasters.googleblog.com/
+http://feeds.feedburner.com/blogspot/amDG
+
 
 # Presse alternative
 
@@ -78,6 +88,3 @@ Les agences de presses utilisent un format plus élaboré qu'RSS pour s'échange
 NY - StrategicSentinel
 Accurate | Objective | Intelligence
 https://www.strategicsentinel.org/feed.xml
-
-
-
